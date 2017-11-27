@@ -1,0 +1,20 @@
+{
+  "name": "sorokin-bot",
+  "version": "0.1.0",
+  "main": "bot.js",
+  "license": "MIT",
+  "author": "Jenya P",
+  "scripts": {
+    "start": "node bot.js"
+  },
+  "dependencies": {
+    "node-telegram-bot-api": "^0.27.1",
+    "underscore": "^1.8.3"
+  },
+  "devDependencies": {},
+  "repository": {
+    "type": "",
+    "url": ""
+  },
+  "description": "jebal gadov srat govna"
+}
